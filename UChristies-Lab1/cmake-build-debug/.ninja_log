@@ -1,0 +1,17 @@
+# ninja log v6
+7	192	1757182619325677952	CMakeFiles/Gradable.dir/baseballcard.cpp.o	ed5b06b8ac2dbab2
+7	193	1757182619325817747	CMakeFiles/Gradable.dir/coin.cpp.o	4db939c088b48ded
+6	613	1757182619324452714	CMakeFiles/Gradable.dir/uchristies.cpp.o	b02add06a843234b
+5	465	1757182661148988392	CMakeFiles/Gradable.dir/gradable.cpp.o	949ef7ef0e369aa4
+4	559	1757182661148025263	CMakeFiles/Gradable.dir/uchristies.cpp.o	b02add06a843234b
+559	687	1757182661703621647	Gradable	250e97da50b6e295
+16	682	1757440076555468045	CMakeFiles/Gradable.dir/uchristies.cpp.o	b02add06a843234b
+3	383	1757440613410269604	CMakeFiles/Gradable.dir/gradable.cpp.o	949ef7ef0e369aa4
+386	511	1757440613792514577	Gradable	250e97da50b6e295
+5	468	1757440958453567634	CMakeFiles/Gradable.dir/gradable.cpp.o	949ef7ef0e369aa4
+5	471	1757440958453700716	CMakeFiles/Gradable.dir/coin.cpp.o	4db939c088b48ded
+4	570	1757440958452753019	CMakeFiles/Gradable.dir/uchristies.cpp.o	b02add06a843234b
+4	500	1757441425843695196	CMakeFiles/Gradable.dir/coin.cpp.o	4db939c088b48ded
+4	501	1757441425843562323	CMakeFiles/Gradable.dir/gradable.cpp.o	949ef7ef0e369aa4
+3	633	1757441425842784424	CMakeFiles/Gradable.dir/uchristies.cpp.o	b02add06a843234b
+634	768	1757441426472807629	Gradable	250e97da50b6e295
