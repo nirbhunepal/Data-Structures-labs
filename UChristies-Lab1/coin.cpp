@@ -1,17 +1,25 @@
 #include "coin.h"
 
-void Coin::Value() {
+void Coin::Grade() {
     if (m_special_coin) {
-        setPrice(20e6);
-    } else if (m_coin_material == "gold") {
-        setPrice(1890);
-    } else if (m_coin_material == "silver") {
-        setPrice(23.85);
+        setRating(100.0);
     } else {
-        setPrice(10);
+        setRating(90.0);
     }
 }
 
-void Coin::Grade() {
-    setRating(100);
+void Coin::Value() {
+    if (m_special_coin) {
+        setPrice(20e6);
+    }
+    else if (m_coin_material == "gold" || m_coin_material == "Gold") {
+        setPrice(1890.0);
+    }
+    else if (m_coin_material == "silver" || m_coin_material == "Silver") {
+        setPrice(25.0);
+    }
+    else {
+        setPrice(1.0);
+    }
 }
+

@@ -4,7 +4,7 @@
 
 const double AUCTION_OVERHEAD_FEE = 0.89;
 
-double sell (Gradable for_sale) {
+double sell (Gradable &for_sale) {
     for_sale.Grade();
 
     for_sale.Value();
