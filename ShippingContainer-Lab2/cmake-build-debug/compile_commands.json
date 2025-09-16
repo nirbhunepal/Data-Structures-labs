@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/nirbhunepal/Documents/Data-Structures-Labs/ShippingContainer-Lab2/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/nirbhunepal/Documents/Data-Structures-Labs/ShippingContainer-Lab2/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -fcolor-diagnostics -o CMakeFiles/teu.dir/main.cpp.o -c /Users/nirbhunepal/Documents/Data-Structures-Labs/ShippingContainer-Lab2/main.cpp",
+  "file": "/Users/nirbhunepal/Documents/Data-Structures-Labs/ShippingContainer-Lab2/main.cpp",
+  "output": "CMakeFiles/teu.dir/main.cpp.o"
+}
+]
